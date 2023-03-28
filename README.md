@@ -49,6 +49,4 @@ AS a manager at an internet retail company I want a back end for e-commerce webs
 # Screenshot
 ![Screenshot](assets/images/ecommerce-back-end.png)
 ## Repo
-https://github.com/johnxlai/ecommerce-back-end
-## WalkThrough Video
-https://drive.google.com/file/d/12D88DOl_d6vjTMbGkkMtJogqd5Qu3mlk/view
+https://github.com/adefuaad/ecommerce-back-end
